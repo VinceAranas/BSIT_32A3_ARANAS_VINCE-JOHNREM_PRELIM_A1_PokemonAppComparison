@@ -1,3 +1,1 @@
-Add comparison here
-
-blah blah blah
+The first batch (the script.js, styles.css, and test.html) is like a usual structural way of building websites. The HTML file is like the base of the pokemon project, CSS do the styling of the HTML, and the JavaScript adds the interactivity. On the other hand, the pokemon-search folder is built with React library framework, as when I opened few files there are imports from react library. I also noticed that in the pokemon-search folder, the test file is actually a javascript file, unlike the other which is an html file. I just feel like the structure of the files in the pokemon-search folder (with the react library) would be suitable for huge and more complex applications, whereas the contrary would be suitable for smaller projects as it don’t have libraries.
